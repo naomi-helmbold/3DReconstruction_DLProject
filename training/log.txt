@@ -1,0 +1,14 @@
+{
+    "BlenderNeRF Version": "6.0.0",
+    "Date and Time": "02/04/2026 20:43:38",
+    "Train": true,
+    "Test": true,
+    "AABB": 4,
+    "Render Frames": true,
+    "File Format": "NGP",
+    "Save Path": "/Users/naomi/nerf",
+    "Method": "SOF",
+    "Frame Step": 5,
+    "Camera": "Camera",
+    "Dataset Name": "training"
+}

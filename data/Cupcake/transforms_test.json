@@ -14,7 +14,7 @@
     "aabb_scale": 4,
     "frames": [
         {
-            "file_path": "test/0001.png",
+            "file_path": "0001.png",
             "transform_matrix": [
                 [
                     0.9850302934646606,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "file_path": "test/0002.png",
+            "file_path": "0002.png",
             "transform_matrix": [
                 [
                     0.9877274036407471,
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "file_path": "test/0003.png",
+            "file_path": "0003.png",
             "transform_matrix": [
                 [
                     0.9901565909385681,
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "file_path": "test/0004.png",
+            "file_path": "0004.png",
             "transform_matrix": [
                 [
                     0.992316722869873,
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "file_path": "test/0005.png",
+            "file_path": "0005.png",
             "transform_matrix": [
                 [
                     0.9942072629928589,
@@ -159,7 +159,7 @@
             ]
         },
         {
-            "file_path": "test/0006.png",
+            "file_path": "0006.png",
             "transform_matrix": [
                 [
                     0.9958284497261047,
@@ -188,7 +188,7 @@
             ]
         },
         {
-            "file_path": "test/0007.png",
+            "file_path": "0007.png",
             "transform_matrix": [
                 [
                     0.9971855878829956,
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "file_path": "test/0008.png",
+            "file_path": "0008.png",
             "transform_matrix": [
                 [
                     0.9982770085334778,
@@ -246,7 +246,7 @@
             ]
         },
         {
-            "file_path": "test/0009.png",
+            "file_path": "0009.png",
             "transform_matrix": [
                 [
                     0.999100387096405,
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "file_path": "test/0010.png",
+            "file_path": "0010.png",
             "transform_matrix": [
                 [
                     0.9996575117111206,
@@ -304,7 +304,7 @@
             ]
         },
         {
-            "file_path": "test/0011.png",
+            "file_path": "0011.png",
             "transform_matrix": [
                 [
                     0.9999501705169678,
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "file_path": "test/0012.png",
+            "file_path": "0012.png",
             "transform_matrix": [
                 [
                     0.9999808073043823,
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "test/0013.png",
+            "file_path": "0013.png",
             "transform_matrix": [
                 [
                     0.9997488260269165,
@@ -391,7 +391,7 @@
             ]
         },
         {
-            "file_path": "test/0014.png",
+            "file_path": "0014.png",
             "transform_matrix": [
                 [
                     0.9992564916610718,
@@ -420,7 +420,7 @@
             ]
         },
         {
-            "file_path": "test/0015.png",
+            "file_path": "0015.png",
             "transform_matrix": [
                 [
                     0.9985067248344421,
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "file_path": "test/0016.png",
+            "file_path": "0016.png",
             "transform_matrix": [
                 [
                     0.9975032210350037,
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "file_path": "test/0017.png",
+            "file_path": "0017.png",
             "transform_matrix": [
                 [
                     0.9962409734725952,
@@ -507,7 +507,7 @@
             ]
         },
         {
-            "file_path": "test/0018.png",
+            "file_path": "0018.png",
             "transform_matrix": [
                 [
                     0.9947222471237183,
@@ -536,7 +536,7 @@
             ]
         },
         {
-            "file_path": "test/0019.png",
+            "file_path": "0019.png",
             "transform_matrix": [
                 [
                     0.9929549098014832,
@@ -565,7 +565,7 @@
             ]
         },
         {
-            "file_path": "test/0020.png",
+            "file_path": "0020.png",
             "transform_matrix": [
                 [
                     0.9909433126449585,
@@ -594,7 +594,7 @@
             ]
         },
         {
-            "file_path": "test/0021.png",
+            "file_path": "0021.png",
             "transform_matrix": [
                 [
                     0.9886921048164368,
@@ -623,7 +623,7 @@
             ]
         },
         {
-            "file_path": "test/0022.png",
+            "file_path": "0022.png",
             "transform_matrix": [
                 [
                     0.9861750602722168,
@@ -652,7 +652,7 @@
             ]
         },
         {
-            "file_path": "test/0023.png",
+            "file_path": "0023.png",
             "transform_matrix": [
                 [
                     0.9834186434745789,
@@ -681,7 +681,7 @@
             ]
         },
         {
-            "file_path": "test/0024.png",
+            "file_path": "0024.png",
             "transform_matrix": [
                 [
                     0.9804279804229736,
@@ -710,7 +710,7 @@
             ]
         },
         {
-            "file_path": "test/0025.png",
+            "file_path": "0025.png",
             "transform_matrix": [
                 [
                     0.9772088527679443,
@@ -739,7 +739,7 @@
             ]
         },
         {
-            "file_path": "test/0026.png",
+            "file_path": "0026.png",
             "transform_matrix": [
                 [
                     0.973738968372345,
@@ -768,7 +768,7 @@
             ]
         },
         {
-            "file_path": "test/0027.png",
+            "file_path": "0027.png",
             "transform_matrix": [
                 [
                     0.9700226783752441,
@@ -797,7 +797,7 @@
             ]
         },
         {
-            "file_path": "test/0028.png",
+            "file_path": "0028.png",
             "transform_matrix": [
                 [
                     0.9660817384719849,
@@ -826,7 +826,7 @@
             ]
         },
         {
-            "file_path": "test/0029.png",
+            "file_path": "0029.png",
             "transform_matrix": [
                 [
                     0.9619221687316895,
@@ -855,7 +855,7 @@
             ]
         },
         {
-            "file_path": "test/0030.png",
+            "file_path": "0030.png",
             "transform_matrix": [
                 [
                     0.957528829574585,
@@ -884,7 +884,7 @@
             ]
         },
         {
-            "file_path": "test/0031.png",
+            "file_path": "0031.png",
             "transform_matrix": [
                 [
                     0.9528805017471313,
@@ -913,7 +913,7 @@
             ]
         },
         {
-            "file_path": "test/0032.png",
+            "file_path": "0032.png",
             "transform_matrix": [
                 [
                     0.9480161070823669,
@@ -942,7 +942,7 @@
             ]
         },
         {
-            "file_path": "test/0033.png",
+            "file_path": "0033.png",
             "transform_matrix": [
                 [
                     0.9429419040679932,
@@ -971,7 +971,7 @@
             ]
         },
         {
-            "file_path": "test/0034.png",
+            "file_path": "0034.png",
             "transform_matrix": [
                 [
                     0.9376444220542908,
@@ -1000,7 +1000,7 @@
             ]
         },
         {
-            "file_path": "test/0035.png",
+            "file_path": "0035.png",
             "transform_matrix": [
                 [
                     0.9320903420448303,
@@ -1029,7 +1029,7 @@
             ]
         },
         {
-            "file_path": "test/0036.png",
+            "file_path": "0036.png",
             "transform_matrix": [
                 [
                     0.926327109336853,
@@ -1058,7 +1058,7 @@
             ]
         },
         {
-            "file_path": "test/0037.png",
+            "file_path": "0037.png",
             "transform_matrix": [
                 [
                     0.9203612804412842,
@@ -1087,7 +1087,7 @@
             ]
         },
         {
-            "file_path": "test/0038.png",
+            "file_path": "0038.png",
             "transform_matrix": [
                 [
                     0.9141737222671509,
@@ -1116,7 +1116,7 @@
             ]
         },
         {
-            "file_path": "test/0039.png",
+            "file_path": "0039.png",
             "transform_matrix": [
                 [
                     0.9077389240264893,
@@ -1145,7 +1145,7 @@
             ]
         },
         {
-            "file_path": "test/0040.png",
+            "file_path": "0040.png",
             "transform_matrix": [
                 [
                     0.9011001586914062,
@@ -1174,7 +1174,7 @@
             ]
         },
         {
-            "file_path": "test/0041.png",
+            "file_path": "0041.png",
             "transform_matrix": [
                 [
                     0.8942639231681824,
@@ -1203,7 +1203,7 @@
             ]
         },
         {
-            "file_path": "test/0042.png",
+            "file_path": "0042.png",
             "transform_matrix": [
                 [
                     0.8872026801109314,
@@ -1232,7 +1232,7 @@
             ]
         },
         {
-            "file_path": "test/0043.png",
+            "file_path": "0043.png",
             "transform_matrix": [
                 [
                     0.8799124956130981,
@@ -1261,7 +1261,7 @@
             ]
         },
         {
-            "file_path": "test/0044.png",
+            "file_path": "0044.png",
             "transform_matrix": [
                 [
                     0.8724215626716614,
@@ -1290,7 +1290,7 @@
             ]
         },
         {
-            "file_path": "test/0045.png",
+            "file_path": "0045.png",
             "transform_matrix": [
                 [
                     0.8647364377975464,
@@ -1319,7 +1319,7 @@
             ]
         },
         {
-            "file_path": "test/0046.png",
+            "file_path": "0046.png",
             "transform_matrix": [
                 [
                     0.8568278551101685,
@@ -1348,7 +1348,7 @@
             ]
         },
         {
-            "file_path": "test/0047.png",
+            "file_path": "0047.png",
             "transform_matrix": [
                 [
                     0.8487086892127991,
@@ -1377,7 +1377,7 @@
             ]
         },
         {
-            "file_path": "test/0048.png",
+            "file_path": "0048.png",
             "transform_matrix": [
                 [
                     0.840390145778656,
@@ -1406,7 +1406,7 @@
             ]
         },
         {
-            "file_path": "test/0049.png",
+            "file_path": "0049.png",
             "transform_matrix": [
                 [
                     0.8318785429000854,
@@ -1435,7 +1435,7 @@
             ]
         },
         {
-            "file_path": "test/0050.png",
+            "file_path": "0050.png",
             "transform_matrix": [
                 [
                     0.8231639266014099,
@@ -1464,7 +1464,7 @@
             ]
         },
         {
-            "file_path": "test/0051.png",
+            "file_path": "0051.png",
             "transform_matrix": [
                 [
                     0.8142440319061279,
@@ -1493,7 +1493,7 @@
             ]
         },
         {
-            "file_path": "test/0052.png",
+            "file_path": "0052.png",
             "transform_matrix": [
                 [
                     0.8051249384880066,
@@ -1522,7 +1522,7 @@
             ]
         },
         {
-            "file_path": "test/0053.png",
+            "file_path": "0053.png",
             "transform_matrix": [
                 [
                     0.7958284616470337,
@@ -1551,7 +1551,7 @@
             ]
         },
         {
-            "file_path": "test/0054.png",
+            "file_path": "0054.png",
             "transform_matrix": [
                 [
                     0.7863438129425049,
@@ -1580,7 +1580,7 @@
             ]
         },
         {
-            "file_path": "test/0055.png",
+            "file_path": "0055.png",
             "transform_matrix": [
                 [
                     0.7766526937484741,
@@ -1609,7 +1609,7 @@
             ]
         },
         {
-            "file_path": "test/0056.png",
+            "file_path": "0056.png",
             "transform_matrix": [
                 [
                     0.7667615413665771,
@@ -1638,7 +1638,7 @@
             ]
         },
         {
-            "file_path": "test/0057.png",
+            "file_path": "0057.png",
             "transform_matrix": [
                 [
                     0.7567317485809326,
@@ -1667,7 +1667,7 @@
             ]
         },
         {
-            "file_path": "test/0058.png",
+            "file_path": "0058.png",
             "transform_matrix": [
                 [
                     0.746506929397583,
@@ -1696,7 +1696,7 @@
             ]
         },
         {
-            "file_path": "test/0059.png",
+            "file_path": "0059.png",
             "transform_matrix": [
                 [
                     0.7360744476318359,
@@ -1725,7 +1725,7 @@
             ]
         },
         {
-            "file_path": "test/0060.png",
+            "file_path": "0060.png",
             "transform_matrix": [
                 [
                     0.7254433035850525,
@@ -1754,7 +1754,7 @@
             ]
         },
         {
-            "file_path": "test/0061.png",
+            "file_path": "0061.png",
             "transform_matrix": [
                 [
                     0.714721143245697,
@@ -1783,7 +1783,7 @@
             ]
         },
         {
-            "file_path": "test/0062.png",
+            "file_path": "0062.png",
             "transform_matrix": [
                 [
                     0.7037842273712158,
@@ -1812,7 +1812,7 @@
             ]
         },
         {
-            "file_path": "test/0063.png",
+            "file_path": "0063.png",
             "transform_matrix": [
                 [
                     0.6926379799842834,
@@ -1841,7 +1841,7 @@
             ]
         },
         {
-            "file_path": "test/0064.png",
+            "file_path": "0064.png",
             "transform_matrix": [
                 [
                     0.681316077709198,
@@ -1870,7 +1870,7 @@
             ]
         },
         {
-            "file_path": "test/0065.png",
+            "file_path": "0065.png",
             "transform_matrix": [
                 [
                     0.66990727186203,
@@ -1899,7 +1899,7 @@
             ]
         },
         {
-            "file_path": "test/0066.png",
+            "file_path": "0066.png",
             "transform_matrix": [
                 [
                     0.6582826972007751,
@@ -1928,7 +1928,7 @@
             ]
         },
         {
-            "file_path": "test/0067.png",
+            "file_path": "0067.png",
             "transform_matrix": [
                 [
                     0.6464481949806213,
@@ -1957,7 +1957,7 @@
             ]
         },
         {
-            "file_path": "test/0068.png",
+            "file_path": "0068.png",
             "transform_matrix": [
                 [
                     0.6344472765922546,
@@ -1986,7 +1986,7 @@
             ]
         },
         {
-            "file_path": "test/0069.png",
+            "file_path": "0069.png",
             "transform_matrix": [
                 [
                     0.6223719716072083,
@@ -2015,7 +2015,7 @@
             ]
         },
         {
-            "file_path": "test/0070.png",
+            "file_path": "0070.png",
             "transform_matrix": [
                 [
                     0.6100814342498779,
@@ -2044,7 +2044,7 @@
             ]
         },
         {
-            "file_path": "test/0071.png",
+            "file_path": "0071.png",
             "transform_matrix": [
                 [
                     0.5975818037986755,
@@ -2073,7 +2073,7 @@
             ]
         },
         {
-            "file_path": "test/0072.png",
+            "file_path": "0072.png",
             "transform_matrix": [
                 [
                     0.5848972797393799,
@@ -2102,7 +2102,7 @@
             ]
         },
         {
-            "file_path": "test/0073.png",
+            "file_path": "0073.png",
             "transform_matrix": [
                 [
                     0.5721740126609802,
@@ -2131,7 +2131,7 @@
             ]
         },
         {
-            "file_path": "test/0074.png",
+            "file_path": "0074.png",
             "transform_matrix": [
                 [
                     0.5592378377914429,
@@ -2160,7 +2160,7 @@
             ]
         },
         {
-            "file_path": "test/0075.png",
+            "file_path": "0075.png",
             "transform_matrix": [
                 [
                     0.5460956692695618,
@@ -2189,7 +2189,7 @@
             ]
         },
         {
-            "file_path": "test/0076.png",
+            "file_path": "0076.png",
             "transform_matrix": [
                 [
                     0.5327543616294861,
@@ -2218,7 +2218,7 @@
             ]
         },
         {
-            "file_path": "test/0077.png",
+            "file_path": "0077.png",
             "transform_matrix": [
                 [
                     0.5193644165992737,
@@ -2247,7 +2247,7 @@
             ]
         },
         {
-            "file_path": "test/0078.png",
+            "file_path": "0078.png",
             "transform_matrix": [
                 [
                     0.5058050751686096,
@@ -2276,7 +2276,7 @@
             ]
         },
         {
-            "file_path": "test/0079.png",
+            "file_path": "0079.png",
             "transform_matrix": [
                 [
                     0.4920453429222107,
@@ -2305,7 +2305,7 @@
             ]
         },
         {
-            "file_path": "test/0080.png",
+            "file_path": "0080.png",
             "transform_matrix": [
                 [
                     0.47809287905693054,
@@ -2334,7 +2334,7 @@
             ]
         },
         {
-            "file_path": "test/0081.png",
+            "file_path": "0081.png",
             "transform_matrix": [
                 [
                     0.4640093147754669,
@@ -2363,7 +2363,7 @@
             ]
         },
         {
-            "file_path": "test/0082.png",
+            "file_path": "0082.png",
             "transform_matrix": [
                 [
                     0.44985488057136536,
@@ -2392,7 +2392,7 @@
             ]
         },
         {
-            "file_path": "test/0083.png",
+            "file_path": "0083.png",
             "transform_matrix": [
                 [
                     0.4355091452598572,
@@ -2421,7 +2421,7 @@
             ]
         },
         {
-            "file_path": "test/0084.png",
+            "file_path": "0084.png",
             "transform_matrix": [
                 [
                     0.4209808111190796,
@@ -2450,7 +2450,7 @@
             ]
         },
         {
-            "file_path": "test/0085.png",
+            "file_path": "0085.png",
             "transform_matrix": [
                 [
                     0.4062792956829071,
@@ -2479,7 +2479,7 @@
             ]
         },
         {
-            "file_path": "test/0086.png",
+            "file_path": "0086.png",
             "transform_matrix": [
                 [
                     0.39150258898735046,
@@ -2508,7 +2508,7 @@
             ]
         },
         {
-            "file_path": "test/0087.png",
+            "file_path": "0087.png",
             "transform_matrix": [
                 [
                     0.3766131103038788,
@@ -2537,7 +2537,7 @@
             ]
         },
         {
-            "file_path": "test/0088.png",
+            "file_path": "0088.png",
             "transform_matrix": [
                 [
                     0.361555278301239,
@@ -2566,7 +2566,7 @@
             ]
         },
         {
-            "file_path": "test/0089.png",
+            "file_path": "0089.png",
             "transform_matrix": [
                 [
                     0.3463391959667206,
@@ -2595,7 +2595,7 @@
             ]
         },
         {
-            "file_path": "test/0090.png",
+            "file_path": "0090.png",
             "transform_matrix": [
                 [
                     0.3309754431247711,
@@ -2624,7 +2624,7 @@
             ]
         },
         {
-            "file_path": "test/0091.png",
+            "file_path": "0091.png",
             "transform_matrix": [
                 [
                     0.31555289030075073,
@@ -2653,7 +2653,7 @@
             ]
         },
         {
-            "file_path": "test/0092.png",
+            "file_path": "0092.png",
             "transform_matrix": [
                 [
                     0.30002644658088684,
@@ -2682,7 +2682,7 @@
             ]
         },
         {
-            "file_path": "test/0093.png",
+            "file_path": "0093.png",
             "transform_matrix": [
                 [
                     0.28436166048049927,
@@ -2711,7 +2711,7 @@
             ]
         },
         {
-            "file_path": "test/0094.png",
+            "file_path": "0094.png",
             "transform_matrix": [
                 [
                     0.2685697376728058,
@@ -2740,7 +2740,7 @@
             ]
         },
         {
-            "file_path": "test/0095.png",
+            "file_path": "0095.png",
             "transform_matrix": [
                 [
                     0.25266268849372864,
@@ -2769,7 +2769,7 @@
             ]
         },
         {
-            "file_path": "test/0096.png",
+            "file_path": "0096.png",
             "transform_matrix": [
                 [
                     0.23669244349002838,
@@ -2798,7 +2798,7 @@
             ]
         },
         {
-            "file_path": "test/0097.png",
+            "file_path": "0097.png",
             "transform_matrix": [
                 [
                     0.22066165506839752,
@@ -2827,7 +2827,7 @@
             ]
         },
         {
-            "file_path": "test/0098.png",
+            "file_path": "0098.png",
             "transform_matrix": [
                 [
                     0.2045288383960724,
@@ -2856,7 +2856,7 @@
             ]
         },
         {
-            "file_path": "test/0099.png",
+            "file_path": "0099.png",
             "transform_matrix": [
                 [
                     0.18830683827400208,
@@ -2885,7 +2885,7 @@
             ]
         },
         {
-            "file_path": "test/0100.png",
+            "file_path": "0100.png",
             "transform_matrix": [
                 [
                     0.17200854420661926,

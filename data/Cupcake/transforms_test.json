@@ -14,7 +14,7 @@
     "aabb_scale": 4,
     "frames": [
         {
-            "file_path": "0001.png",
+            "file_path": "images/0001.png",
             "transform_matrix": [
                 [
                     0.9850302934646606,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "file_path": "0006.png",
+            "file_path": "images/0006.png",
             "transform_matrix": [
                 [
                     0.9958284497261047,
@@ -72,7 +72,7 @@
             ]
         },
         {
-            "file_path": "0011.png",
+            "file_path": "images/0011.png",
             "transform_matrix": [
                 [
                     0.9999501705169678,
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "file_path": "0016.png",
+            "file_path": "images/0016.png",
             "transform_matrix": [
                 [
                     0.9975032210350037,
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "file_path": "0021.png",
+            "file_path": "images/0021.png",
             "transform_matrix": [
                 [
                     0.9886921048164368,
@@ -159,7 +159,7 @@
             ]
         },
         {
-            "file_path": "0026.png",
+            "file_path": "images/0026.png",
             "transform_matrix": [
                 [
                     0.973738968372345,
@@ -188,7 +188,7 @@
             ]
         },
         {
-            "file_path": "0031.png",
+            "file_path": "images/0031.png",
             "transform_matrix": [
                 [
                     0.9528805017471313,
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "file_path": "0036.png",
+            "file_path": "images/0036.png",
             "transform_matrix": [
                 [
                     0.926327109336853,
@@ -246,7 +246,7 @@
             ]
         },
         {
-            "file_path": "0041.png",
+            "file_path": "images/0041.png",
             "transform_matrix": [
                 [
                     0.8942639231681824,
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "file_path": "0046.png",
+            "file_path": "images/0046.png",
             "transform_matrix": [
                 [
                     0.8568278551101685,
@@ -304,7 +304,7 @@
             ]
         },
         {
-            "file_path": "0051.png",
+            "file_path": "images/0051.png",
             "transform_matrix": [
                 [
                     0.8142440319061279,
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "file_path": "0056.png",
+            "file_path": "images/0056.png",
             "transform_matrix": [
                 [
                     0.7667615413665771,
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "0061.png",
+            "file_path": "images/0061.png",
             "transform_matrix": [
                 [
                     0.714721143245697,
@@ -391,7 +391,7 @@
             ]
         },
         {
-            "file_path": "0066.png",
+            "file_path": "images/0066.png",
             "transform_matrix": [
                 [
                     0.6582826972007751,
@@ -420,7 +420,7 @@
             ]
         },
         {
-            "file_path": "0071.png",
+            "file_path": "images/0071.png",
             "transform_matrix": [
                 [
                     0.5975818037986755,
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "file_path": "0076.png",
+            "file_path": "images/0076.png",
             "transform_matrix": [
                 [
                     0.5327543616294861,
@@ -478,7 +478,7 @@
             ]
         },
         {
-            "file_path": "0081.png",
+            "file_path": "images/0081.png",
             "transform_matrix": [
                 [
                     0.4640093147754669,
@@ -507,7 +507,7 @@
             ]
         },
         {
-            "file_path": "0086.png",
+            "file_path": "images/0086.png",
             "transform_matrix": [
                 [
                     0.39150258898735046,
@@ -536,7 +536,7 @@
             ]
         },
         {
-            "file_path": "0091.png",
+            "file_path": "images/0091.png",
             "transform_matrix": [
                 [
                     0.31555289030075073,
@@ -565,7 +565,7 @@
             ]
         },
         {
-            "file_path": "0096.png",
+            "file_path": "images/0096.png",
             "transform_matrix": [
                 [
                     0.23669244349002838,
